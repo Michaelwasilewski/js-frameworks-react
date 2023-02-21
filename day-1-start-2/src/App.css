@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  max-width: 90%;
+  margin: 1rem auto;
+  background-color: tomato;
+}
+h1 {
+  color: blanchedalmond;
+}
+p {
+  color: rgb(124, 23, 123);
+  border: 0.5rem dotted gray;
+  padding: 1rem;
+  text-align: left;
+  font-weight: 400;
+  margin: 1rem;
+}
+
+ul {
+  padding-left: 0;
+  list-style-type: none;
+  color: blueviolet;
+}
+
+li {
+  padding: 1rem;
+}
+li:hover {
+  background-color: aqua;
+  cursor: pointer;
+}
